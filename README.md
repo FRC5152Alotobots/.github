@@ -19,8 +19,8 @@ TODO:
 <br />
 <div align="center">
   <a href="https://github.com/FRC5152Alotobots">
-    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aperture_Science.svg/1200px-Aperture_Science.svg.png" alt="Logo" width="200" -->
-    height="200">
+    <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Aperture_Science.svg/1200px-Aperture_Science.svg.png" alt="Logo" width="200"
+    height="200">-->
   </a>
 
 <h3 align="center">FRC 5152 Alotobots</h3>
