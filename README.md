@@ -174,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 
-Project Link: [https://github.com/SeanErn/ProjectAperture](https://github.com/FRC5152Alotobots/2022robotCode)
+Project Link: [https://github.com/SeanErn/ProjectAperture](https://github.com/FRC5152Alotobots/2022robotCode)<br>
 Developer Emails:<br>
 Seanernstes@otsegops.org<br>
 Rowankortlandt@otsegops.org
