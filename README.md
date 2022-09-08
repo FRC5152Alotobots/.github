@@ -175,6 +175,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 Project Link: [https://github.com/SeanErn/ProjectAperture](https://github.com/FRC5152Alotobots/2022robotCode)
+Developers:
+Seanernstes@otsegops.org
+Rowankortlandt@otsegops.org
 <!-- ACKNOWLEDGMENTS -->
 <!--
 ## Acknowledgments
@@ -191,6 +194,7 @@ Project Link: [https://github.com/SeanErn/ProjectAperture](https://github.com/FR
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!--
 [contributors-shield]: https://img.shields.io/github/contributors/SeanErn/ProjectAperture.svg?style=for-the-badge
 [contributors-url]: https://github.com/SeanErn/ProjectAperture/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SeanErn/ProjectAperture.svg?style=for-the-badge
@@ -203,3 +207,4 @@ Project Link: [https://github.com/SeanErn/ProjectAperture](https://github.com/FR
 [license-url]: https://github.com/SeanErn/ProjectAperture/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
+-->
