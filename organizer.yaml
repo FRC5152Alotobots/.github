@@ -46,4 +46,4 @@ repositories:
         column: Todo
     teams:
       Dev: Push, Pull
-      Mentors: Pull, Push, Admin
+      Mentor: Pull, Push, Admin
