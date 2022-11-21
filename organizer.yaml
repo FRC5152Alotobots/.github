@@ -1,0 +1,49 @@
+repositories:
+  default:
+  dependency_security:
+      alerts: true
+      automatic_fixes: false
+    features:
+      has_issues: true
+      has_wiki: false
+      has_projects: true
+      has_downloads: false
+# FULL REPOS LABELED AS PRODUCTION WILL USE THIS
+  production:
+    extends: default
+    branches:
+      main:
+        enforce_admins: true
+        required_status_checks:
+          require_review: true
+          required_approving_review_count: 2
+          context: []
+#PUT ALL REPOS LABELED AS PROD HERE
+# example_repo: production
+
+repositories:
+  default:
+    branches:
+      main:
+        enforce_admins: false
+        required_status_checks:
+          require_review: true
+      production:
+        default: true
+        enforce_admins: true
+        required_status_checks:
+          require_review: true
+          required_approving_review_count: 3
+          context: []
+      development:
+        enforce_admins: false
+        required_status_checks:
+          require_review: false
+    issues:
+      project_autoassign:
+        organization: true
+        name: 2023 Robot Programming
+        column: Todo
+    teams:
+      Dev: Push, Pull
+      Mentors: Pull, Push, Admin
